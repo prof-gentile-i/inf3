@@ -5,15 +5,14 @@ Dato un array di interi letto valore per valore dalla tastiera, che rappresentan
 - Il voto massimo
 - Il voto minimo
 
-
 Esempio se i voti sono:
 `[3, 6, 4, 2, 8, 7, 8]`
-il voto massimo è `8`, il voto minimo è `2`, la posizione del voto massimo è 
+il voto massimo è `8`, il voto minimo è `2`. 
 
 # Parte 2
 Calcolare anche le
 - la *prima* posizione del voto massimo
-- la *prima*posizione del voto minimo
+- la *prima* posizione del voto minimo
 
 con riferimento all'esempio di prima la posizione del voto massimo è `4` (le posizioni partono da zero), mentre la prima posizione del voto minimo è `3` (le posizioni partono da zero).
 
@@ -22,11 +21,11 @@ Legggere i voti da un file testo di nome `voti.txt` che contenga i voti separati
 `3 6 4 2 8 7 8`
 
 
-## Parte 3
+## Parte 4
 Calcolare la media dei voti
 
-## Parte 4
-Calcolare il numero di materie insfficienti (voto minore di 6) e styampare uno dei seguenti messaggi
+## Parte 5
+Calcolare il numero di materie insufficienti (voto minore di 6) e styampare uno dei seguenti messaggi
 - `Ammmesso` se l'alunno ha tutti voti maggiori o uguali a `6`
 - `Non ammesso` se insufficienze sono maggiori di `2`
-- `Sospeso` se le insufficienze sono minori o uguali a `3` 
+- `Sospeso` se le insufficienze sono minori o uguali a `2` 
