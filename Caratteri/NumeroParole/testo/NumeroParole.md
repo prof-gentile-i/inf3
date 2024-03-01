@@ -1,5 +1,13 @@
 # Numero di Parole
 Dato un file testo, creare un programma che calcoli e stampi il numero di parole in esso contenute.
+L'esercizio è diviso in varie parti. Far eun file Cpp che risolve le varie parti.
+Esempio 
+
+- `NumeroParole01.cpp` risolve la prima parte.
+- `NumeroParole02.cpp` risolve la seconda parte.
+- etc.
+
+
 
 ## Prima parte
 Per "parola" si intende una stringa che uno spazio **dopo** di essa.
