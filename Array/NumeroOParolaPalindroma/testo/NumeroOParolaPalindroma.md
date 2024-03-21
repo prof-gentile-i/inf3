@@ -1,5 +1,5 @@
 # Numero o Parola Palindroma
-Un numero palindromo è un numero che rappresenta la stessa quanttà sia se letto da sinistra a destra che da destra a sinista, ad esempio
+Un numero **palindromo** è un numero che rappresenta la stessa quantità sia se letto da sinistra a destra che da destra a sinista, ad esempio
 
     131
     1221
